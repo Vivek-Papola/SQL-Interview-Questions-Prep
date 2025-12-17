@@ -1,0 +1,3 @@
+These are the most asked interview questions of SQL so skim through it for a good interview experience.
+
+Thank you...
